@@ -1,0 +1,5 @@
+# Created at 2025-02-13T23:31:21.041
+Boot Manifest-JAR contains absolute paths in classpath 'E:\GitHub\Workintech\BackEnd\FSWEB-S18D4-Maven\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
